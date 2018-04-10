@@ -1,0 +1,2 @@
+inno setup download
+launch4j download
